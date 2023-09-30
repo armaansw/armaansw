@@ -1,4 +1,4 @@
-- Hi, I’m Armaan
+- Hi, I’m Armaan!
 - I program in Java, Python, C and many more. 
 - I’m currently learning computer science at Queens U.
 
